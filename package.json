@@ -1,0 +1,26 @@
+{
+  "name": "k6-templates",
+  "version": "1.0.0",
+  "description": "This repository provides a boilerplate for performance testing using k6. k6 is an open-source load testing tool for testing the performance of APIs, microservices, and websites.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouctarbarry/k6-templates.git"
+  },
+  "keywords": [],
+  "author": "@mouctarbarry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouctarbarry/k6-templates/issues"
+  },
+  "homepage": "https://github.com/mouctarbarry/k6-templates#readme",
+  "devDependencies": {
+    "@types/k6": "^0.54.2"
+  },
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
